@@ -4,7 +4,7 @@ First real Project with Tauri/Rust
 
 ## Link to different files
 
-[main.rs]](https://github.com/FlameDrone/TicTacToeTauri/blob/main/src-tauri/src/main.rs)
+[main.rs](https://github.com/FlameDrone/TicTacToeTauri/blob/main/src-tauri/src/main.rs)
 
 
 [main.ts](https://github.com/FlameDrone/TicTacToeTauri/blob/main/src/main.ts)
